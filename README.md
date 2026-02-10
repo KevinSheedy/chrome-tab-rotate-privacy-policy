@@ -1,0 +1,1 @@
+# chrome-tab-rotate-privacy-policy
